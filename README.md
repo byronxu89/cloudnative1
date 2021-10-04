@@ -12,8 +12,8 @@
     <br />
     <a href="https://github.com/byronxu89/cloudnative1.git">View Demo</a>
     ·
-    <a href="https://github.com/byronxu89/cloudnative1.git/issues">Report Bug</a>
+    <a href="https://github.com/byronxu89/cloudnative1/issues">Report Bug</a>
     ·
-    <a href="https://github.com/byronxu89/cloudnative1.git/issues">Request Feature</a>
+    <a href="https://github.com/byronxu89/cloudnative1/issues">Request Feature</a>
   </p>
 </div>
